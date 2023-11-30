@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestBinarySearchk(t *testing.T) {
+func TestBinarySearch(t *testing.T) {
 	var tests = []struct {
 		array  []int
 		target int
