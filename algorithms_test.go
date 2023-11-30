@@ -2,7 +2,7 @@ package algorithms_and_ds
 
 import "testing"
 
-func TestBinarySearch(t *testing.T) {
+func TestBinarySearchk(t *testing.T) {
 	var tests = []struct {
 		array  []int
 		target int
