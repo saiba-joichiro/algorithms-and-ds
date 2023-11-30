@@ -44,6 +44,5 @@ func TestSelectionSort(t *testing.T) {
 				break
 			}
 		}
-		t.Log(test.input)
 	}
 }
